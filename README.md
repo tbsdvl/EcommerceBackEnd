@@ -14,5 +14,5 @@ Fields and records are returned as json objects containing field keys and record
 8. If the server cannot complete your request, it will present an error as a json object
 
 ## Tutorial Video
-Checkout my YouTube video for a walkthrough on using the application.
-YouTube Video<br>[Link to Video](https://www.youtube.com/watch?v=vj2rYDs0Fos)
+Checkout my YouTube video for a walkthrough on using the application.<br>
+YouTube Video: [Link](https://www.youtube.com/watch?v=vj2rYDs0Fos)
