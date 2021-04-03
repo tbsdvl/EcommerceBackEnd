@@ -22,6 +22,7 @@ class Category extends Model {}
 
 // Doesn't allow null values.
 
+// Initialize Category model
 Category.init(
   {
     // define columns
