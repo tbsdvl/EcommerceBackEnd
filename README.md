@@ -15,4 +15,4 @@ Fields and records are returned as json objects containing field keys and record
 
 ## Tutorial Video
 Checkout my YouTube video for a walkthrough on using the application.
-YouTube Video: [Link to Video](https://www.youtube.com/watch?v=vj2rYDs0Fos)
+YouTube Video<br>[Link to Video](https://www.youtube.com/watch?v=vj2rYDs0Fos)
